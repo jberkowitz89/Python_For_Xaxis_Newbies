@@ -3,24 +3,27 @@
 **Purpose and Goals**
 * For participants to get a base knowledge of Python and be comfortable using Python as a resource for their day to day jobs
 * To find a project and apply your Python skills - whether it be automating, data analysis, building a model, etc - the world  is your oyster!
-What this course won't do
 
-Make you an expert on Python
-Python Stack
-We'll be using Jupyter Notebooks and Python 3.7. You should all have this installed on your computers.
-Course Curriculum
-Course will be a mixture of Lectures/Demos, code-alongs, quizzes and tests, with a final project at the end.
-We will meet once per week for an hour. Please be on-time to meetings so we can start promptly.
-Please feel free to message myself or Sara with any questions about the materials, quizzes, tests or projects.
-Link to course materials: https://github.com/jberkowitz89/Python_For_Xaxis_Newbies
+**What this course won't do**
+* Make you an expert on Python
 
-Useful Additional Materials:
-These are links to resources that are not required, but may help you along the way with your homework and learning:
-https://stackoverflow.com/
-Python for Data Analysis Textbook: https://www.cin.ufpe.br/~embat/Python%20for%20Data%20Analysis.pdf
-W3Schools: https://www.w3schools.com/python/default.asp
-Weeks 1-2: Python Data Types & Variable Assignment
-Topics
+**Python Stack**
+* We'll be using Jupyter Notebooks and Python 3.7. You should all have this installed on your computers.
+
+**Course Curriculum**
+* Course will be a mixture of Lectures/Demos, code-alongs and quizzes, with a final project at the end.
+* We will meet once per week for an hour. Please be on-time to meetings so we can start promptly.
+* Please feel free to message myself or Sara with any questions about the materials, quizzes, tests or projects.
+* Link to course materials: https://github.com/jberkowitz89/Python_For_Xaxis_Newbies
+
+**Useful Additional Materials**
+* These are links to resources that are not required, but may help you along the way with your homework and learning:
+  * https://stackoverflow.com/
+  * Python for Data Analysis Textbook: https://www.cin.ufpe.br/~embat/Python%20for%20Data%20Analysis.pdf
+  * W3Schools: https://www.w3schools.com/python/default.asp
+
+**Weeks 1-2: Python Data Types & Variable Assignment**
+* Topics
 Numbers
 Variable Assignments
 Strings
